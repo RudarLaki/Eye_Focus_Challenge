@@ -1,0 +1,160 @@
+[
+  {
+    "username": "aaaaaaa",
+    "accuracy": 46.7,
+    "avg_time": 290,
+    "timestamp": "2026-01-20T08:26:20.231657",
+    "detailed_results": [
+      {
+        "seq_a": "up7YhdefQJ",
+        "seq_b": "up7YhdefQJ",
+        "correct_answer": false,
+        "user_guess": false,
+        "response_time_ms": 261.813799967058,
+        "was_correct": true,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "zbFEnNqfae",
+        "seq_b": "zbFEnNqfae",
+        "correct_answer": false,
+        "user_guess": false,
+        "response_time_ms": 291.45979997701943,
+        "was_correct": true,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "0eYWDDcNx7",
+        "seq_b": "0eYWDDcNx7",
+        "correct_answer": false,
+        "user_guess": false,
+        "response_time_ms": 233.4677999606356,
+        "was_correct": true,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "pPGPEESYQq",
+        "seq_b": "pPGPEESYQq",
+        "correct_answer": false,
+        "user_guess": true,
+        "response_time_ms": 587.7882000058889,
+        "was_correct": false,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "W2oRNNNMoJ",
+        "seq_b": "W2oPNNNMoJ",
+        "correct_answer": true,
+        "user_guess": false,
+        "response_time_ms": 286.93429997656494,
+        "was_correct": false,
+        "changed_index": 3,
+        "changed_char": "P"
+      },
+      {
+        "seq_a": "po3HEd5SDAv46qj",
+        "seq_b": "po3HEdSSDAv46qj",
+        "correct_answer": true,
+        "user_guess": false,
+        "response_time_ms": 486.63379997015,
+        "was_correct": false,
+        "changed_index": 6,
+        "changed_char": "S"
+      },
+      {
+        "seq_a": "HC4MlrskfVHu75h",
+        "seq_b": "HC4MlrskfVHu75h",
+        "correct_answer": false,
+        "user_guess": false,
+        "response_time_ms": 298.47600002540275,
+        "was_correct": true,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "nnD1Rot3jsg61g1",
+        "seq_b": "nnD1Rot3jsg61g1",
+        "correct_answer": false,
+        "user_guess": true,
+        "response_time_ms": 270.7941999542527,
+        "was_correct": false,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "MoeeDkWHl8XN73S",
+        "seq_b": "MoeeDkWHJ8XN73S",
+        "correct_answer": true,
+        "user_guess": true,
+        "response_time_ms": 390.4112000018358,
+        "was_correct": true,
+        "changed_index": 8,
+        "changed_char": "J"
+      },
+      {
+        "seq_a": "C3XjejfDq3PN56C",
+        "seq_b": "C3XjejfDq3PN5GC",
+        "correct_answer": true,
+        "user_guess": true,
+        "response_time_ms": 239.31390000507236,
+        "was_correct": true,
+        "changed_index": 13,
+        "changed_char": "G"
+      },
+      {
+        "seq_a": "RvLNS1DxzGsdtJfxT1dM",
+        "seq_b": "RvLNS1DxzGsdtJfxTjdM",
+        "correct_answer": true,
+        "user_guess": true,
+        "response_time_ms": 220.36099998513237,
+        "was_correct": true,
+        "changed_index": 17,
+        "changed_char": "j"
+      },
+      {
+        "seq_a": "lVMVD270Z3358NwAAM2X",
+        "seq_b": "lVMVD270Z3358NwAAM2X",
+        "correct_answer": false,
+        "user_guess": true,
+        "response_time_ms": 171.9677000073716,
+        "was_correct": false,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "MssuSrWFTqYEr7lhcIBX",
+        "seq_b": "MssuSrWFTqYEr7lhcIBX",
+        "correct_answer": false,
+        "user_guess": true,
+        "response_time_ms": 237.37530002836138,
+        "was_correct": false,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "jcjIrmUGjpxX1HWVW8eL",
+        "seq_b": "jcjIrmUGjpxX1HWVW8eL",
+        "correct_answer": false,
+        "user_guess": true,
+        "response_time_ms": 86.3151999656111,
+        "was_correct": false,
+        "changed_index": null,
+        "changed_char": null
+      },
+      {
+        "seq_a": "GbpEEUhF6gY2OmW2ViXj",
+        "seq_b": "GbpEEUhF6gY2OmW2ViXj",
+        "correct_answer": false,
+        "user_guess": true,
+        "response_time_ms": 293.4918000246398,
+        "was_correct": false,
+        "changed_index": null,
+        "changed_char": null
+      }
+    ]
+  }
+]
